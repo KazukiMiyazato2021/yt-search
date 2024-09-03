@@ -4,6 +4,7 @@
   "description": "YouTube search API wrapper",
   "main": "main.mjs",
   "scripts": {
+    "search": "node --env-file=.env main.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
