@@ -1,0 +1,24 @@
+{
+  "name": "yt-search",
+  "version": "1.0.0",
+  "description": "YouTube search API wrapper",
+  "main": "main.mjs",
+  "scripts": {
+    "search": "node --env-file=.env main.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KazukiMiyazato2021/yt-search.git"
+  },
+  "keywords": [
+    "YouTube"
+  ],
+  "author": "Kazuki Miyazato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KazukiMiyazato2021/yt-search/issues"
+  },
+  "homepage": "https://github.com/KazukiMiyazato2021/yt-search#readme",
+  "type": "module"
+}
